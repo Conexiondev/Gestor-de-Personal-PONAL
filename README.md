@@ -14,7 +14,7 @@ Política de Privacidad – Gestor Personal:
 * Nos comprometemos a proteger la privacidad y seguridad de los datos de nuestros usuarios.
 
 * Para cualquier consulta, puedes contactarnos en: 
-  https://www.conexiondev.io/
+  www.conexiondev.io
   conexiondev@outlook.com 
   +57 3213688363
 
